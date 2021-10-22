@@ -29,7 +29,7 @@ main {
 }
 .avatar span {
   position: absolute;
-  top: -1px;
+  top: -6px;
   z-index: 1;
 }
 .avatar > img {
